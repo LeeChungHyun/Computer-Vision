@@ -9,9 +9,6 @@ def color_rect():
 
 	g = np.zeros((256, 256, 3), np.uint8)
 	
-	red = g[0,0,255]
-	green = g[0,255,0]
-	blue = g[255,0,0]
 	#r = np.uint8([[[0,0,255]]])
 	for i in range(256):
     		for j in range(256):
