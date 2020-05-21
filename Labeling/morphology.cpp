@@ -4,7 +4,7 @@
 using namespace cv;
 using namespace std;
 
-
+//모폴로지 연산을 위한 데이터
 int main() {
 uchar data[] = {
 		0,0,0,0,0,0,0,0,
