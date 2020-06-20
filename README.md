@@ -10,5 +10,5 @@ AI Robotics KR의 opencv 스터디그룹에서 배운 내용 + Self Study
 ```
 
 ```
-사용 언어 : Python/C++
+사용 언어 : Python&C++
 ```
