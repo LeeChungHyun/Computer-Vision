@@ -8,7 +8,7 @@ using namespace std;
 void detect_face();
 void detect_eyes();
 
-//main문은 단순 함수 호출 기능만 부여합니다.
+//main문은 단순 함수 호출 기능만 부.
 int main()
 {
 	detect_face();
